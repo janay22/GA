@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <head>
-<title>Janay Jones</title>	
 <h1> Janay Jones</h1>
 <style>
 body{
